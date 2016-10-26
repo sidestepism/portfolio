@@ -1,0 +1,9 @@
+baseurl = "http://rfushimi.com/"
+title = "Ryohei Fushimi"
+languageCode = "ja-jp"
+
+theme = "hyde"
+
+[params]
+ description = "Student / Tokyo based engineer"
+ copyright = ""
